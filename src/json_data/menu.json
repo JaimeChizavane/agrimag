@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Início",
+    "to": "home",
+    "sub_menus": []
+  },
+  {
+    "name": "Notícias",
+    "to": "news",
+    "sub_menus": []
+  },
+  {
+    "name": "Negócios",
+    "to": "business",
+    "sub_menus": []
+  },
+  {
+    "name": "Contactos",
+    "to": "contacts",
+    "sub_menus": [
+      {
+        "name": "Mapa Agricola",
+        "to": "home",
+        "sub_menus": []
+      },
+      {
+        "name": "Consultoria",
+        "to": "home",
+        "sub_menus": []
+      },
+      {
+        "name": "Serviços",
+        "to": "home",
+        "sub_menus": []
+      },
+      {
+        "name": "Contacte-nos",
+        "to": "home",
+        "sub_menus": []
+      }
+    ]
+  }
+]
