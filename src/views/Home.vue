@@ -66,68 +66,7 @@
         <div class="row justify-content-center">
           <div class="col-md-10 col-lg-8">
             <div class="p-r-10 p-rl-0-sr991 p-b-20">
-              <!-- Entertainment  -->
-              <div class="p-b-25">
-                <div class="how2 how2-cl1 flex-s-c">
-                  <h3 class="f1-m-2 cl12 tab01-title">
-                    Notícias
-                  </h3>
-                </div>
-
-                <div class="flex-wr-sb-s p-t-35">
-                  <div class="size-w-6 w-full-sr575">
-                    <!-- Item post -->
-                    <div class="m-b-30">
-                      <a href="blog-detail-02.html" class="wrap-pic-w hov1 trans-03">
-                        <img src="images/post-21.jpg" alt="IMG">
-                      </a>
-
-                      <div class="p-t-25">
-                        <h5 class="p-b-5">
-                          <a href="blog-detail-02.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-                            Associação Augusto Xirute com limitações por falta de material de trabalho
-                          </a>
-                        </h5>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="size-w-7 w-full-sr575">
-                    <!-- Item post -->
-                    <div class="m-b-30">
-                      <a href="blog-detail-02.html" class="wrap-pic-w hov1 trans-03">
-                        <img src="images/post-22.jpg" alt="IMG">
-                      </a>
-
-                      <div class="p-t-10">
-                        <h5 class="p-b-5">
-                          <a href="blog-detail-02.html" class="f1-s-5 cl3 hov-cl10 trans-03">
-                            Produtores de hortícolas na baixa do Benfica perspectivam uma boa campanha agrária.
-                          </a>
-                        </h5>
-
-                      </div>
-                    </div>
-
-                    <!-- Item post -->
-                    <div class="m-b-30">
-                      <a href="blog-detail-02.html" class="wrap-pic-w hov1 trans-03">
-                        <img src="images/post-23.jpg" alt="IMG">
-                      </a>
-
-                      <div class="p-t-10">
-                        <h5 class="p-b-5">
-                          <a href="blog-detail-02.html" class="f1-s-5 cl3 hov-cl10 trans-03">
-                            Governo e parceiros comprometidos com o aumento da produção.
-                          </a>
-                        </h5>
-
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
+  
               <!-- Business  -->
               <div class="p-b-25">
                 <div class="how2 how2-cl2 flex-s-c">
@@ -213,10 +152,7 @@
                 </div>
               </div>
 
-              <!-- Travel  -->
-
-
-              <!-- Life Style  -->
+ 
 
             </div>
           </div>
@@ -224,7 +160,7 @@
           <div class="col-md-10 col-lg-4">
             <div class="p-l-10 p-rl-0-sr991 p-b-20">
               <!-- Stay Connected -->
-              <div class="p-b-35">
+              <!-- <div class="p-b-35">
                 <div class="how2 how2-cl4 flex-s-c">
                   <h3 class="f1-m-2 cl3 tab01-title">
                     Conecte-nos nas redes
@@ -280,7 +216,7 @@
                     </div>
                   </li>
                 </ul>
-              </div>
+              </div> -->
 
               <!-- Most Popular -->
 
@@ -293,7 +229,7 @@
               </div>
 
               <!-- Video -->
-              <div class="p-b-55">
+              <!-- <div class="p-b-55">
                 <div class="how2 how2-cl4 flex-s-c m-b-35">
                   <h3 class="f1-m-2 cl3 tab01-title">
                     Video do mês
@@ -326,7 +262,7 @@
 									</span>
                   </div>
                 </div>
-              </div>
+              </div> -->
 
               <!-- Subscribe -->
               <div class="bg10 p-rl-35 p-t-28 p-b-35 m-b-55">
@@ -608,7 +544,7 @@
               </div>
 
               <!-- Subscribe -->
-              <div class="bg10 p-rl-35 p-t-28 p-b-35 m-b-55">
+              <!-- <div class="bg10 p-rl-35 p-t-28 p-b-35 m-b-55">
                 <h5 class="f1-m-5 cl0 p-b-10">
                   Subscreva
                 </h5>
@@ -624,10 +560,10 @@
                     <i class="fa fa-arrow-right"></i>
                   </button>
                 </form>
-              </div>
+              </div> -->
 
               <!-- Tag -->
-              <div class="p-b-55">
+              <!-- <div class="p-b-55">
                 <div class="how2 how2-cl4 flex-s-c m-b-30">
                   <h3 class="f1-m-2 cl3 tab01-title">
                     Tags
@@ -675,7 +611,7 @@
                     Artigos
                   </a>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>

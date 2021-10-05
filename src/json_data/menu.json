@@ -10,7 +10,7 @@
     "sub_menus": []
   },
   {
-    "name": "Negócios",
+    "name": "Directório",
     "to": "business",
     "sub_menus": []
   },
@@ -24,8 +24,8 @@
         "sub_menus": []
       },
       {
-        "name": "Consultoria",
-        "to": "home",
+        "name": "Sobre",
+        "to": "about",
         "sub_menus": []
       },
       {

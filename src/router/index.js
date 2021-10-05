@@ -18,7 +18,7 @@ const routes = [
     meta: {
       title: 'Noticias'
     },
-    component: () => import('../views/Home.vue')
+    component: () => import('../views/News.vue')
   },
   {
     path: '/business',
@@ -26,7 +26,7 @@ const routes = [
     meta: {
       title: 'Negocios'
     },
-    component: () => import('../views/Home.vue')
+    component: () => import('../views/Business.vue')
   },
   {
     path: '/contacts',
@@ -34,7 +34,15 @@ const routes = [
     meta: {
       title: 'Contactos'
     },
-    component: () => import('../views/Home.vue')
+    component: () => import('../views/Contacts.vue')
+  },
+  {
+    path: '/about',
+    name: 'about',
+    meta: {
+      title: 'Acerca'
+    },
+    component: () => import('../views/About.vue')
   }
 ]
 
