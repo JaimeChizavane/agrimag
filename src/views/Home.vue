@@ -10,12 +10,12 @@
 
             <div class="flex-col-e-s s-full p-rl-25 p-tb-18">
               <router-link :to="{name: 'category-item'}" class="dis-block how1-child2 f1-s-2 cl0 bo-all-1 bocl0 hov-btn1 trans-03 p-rl-5 p-t-2">
-                Agricultura
+                COOPERAÇÃO
               </router-link>
 
               <h3 class="how1-child2 m-t-14 m-b-10">
-                <router-link :to="{name: 'blog-item'}" class="f1-l-1 cl0 hov-cl10 trans-03 respon1">
-                  Os (grandes) entraves ao desenvolvimento da agroindústria em Moçambique
+                <router-link to="blog-home-01" class="f1-l-1 cl0 hov-cl10 trans-03 respon1">
+                  Moçambique aumenta exportação de algodão para as Maurícias
                 </router-link>
               </h3>
             </div>
@@ -27,13 +27,13 @@
             <a href="blog-detail-02.html" class="dis-block how1-child1 trans-03"></a>
 
             <div class="flex-col-e-s s-full p-rl-25 p-tb-18">
-              <router-link :to="{name: 'category-item'}" class="dis-block how1-child2 f1-s-2 cl0 bo-all-1 bocl0 hov-btn1 trans-03 p-rl-5 p-t-2">
-                Agricultura
+              <router-link to="blog-home-02" class="dis-block how1-child2 f1-s-2 cl0 bo-all-1 bocl0 hov-btn1 trans-03 p-rl-5 p-t-2">
+                NUTRIÇÃO
               </router-link>
 
               <h3 class="how1-child2 m-t-14 m-b-10">
-                <router-link :to="{name: 'blog-item'}" class="f1-l-1 cl0 hov-cl10 trans-03 respon1">
-                  Mais investimento para encorajar o agro-processamento.
+                <router-link to="blog-home-02" class="f1-l-1 cl0 hov-cl10 trans-03 respon1">
+                  Actores políticos e económicos consideram que há “progressão” dos sistemas alimentares
                 </router-link>
               </h3>
             </div>
@@ -46,13 +46,13 @@
 
             <div class="flex-col-e-s s-full p-rl-25 p-tb-18">
               <a href="#" class="dis-block how1-child2 f1-s-2 cl0 bo-all-1 bocl0 hov-btn1 trans-03 p-rl-5 p-t-2">
-                Social
+                MUNDO AGRO
               </a>
 
               <h3 class="how1-child2 m-t-14 m-b-10">
-                <a href="blog-detail-02.html" class="f1-l-1 cl0 hov-cl10 trans-03 respon1">
-                  AJAP promove debate sobre competitividade agroalimentar em Moçambique
-                </a>
+                <router-link to="blog-home-03" class="f1-l-1 cl0 hov-cl10 trans-03 respon1">
+                  Governo espera salvar 2.5 milhões de toneladas com plano de acção para travar lagarta do funil do milho
+                </router-link>
               </h3>
             </div>
           </div>
@@ -321,11 +321,11 @@
                   <div class="p-t-16">
                     <h5 class="p-b-5">
                       <a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-                        Associacao de Mulheres desenvolve cooperativa de producao de ovos
+                        Actores políticos e económicos consideram que há “progressão” dos sistemas alimentares
                       </a>
                     </h5>
 
-                    <span class="cl8">
+                    <!-- <span class="cl8">
 										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
 											por John Mateque
 										</a>
@@ -337,7 +337,7 @@
 										<span class="f1-s-3">
 											Feb 18
 										</span>
-									</span>
+									</span> -->
                   </div>
                 </div>
               </div>
@@ -352,23 +352,11 @@
                   <div class="p-t-16">
                     <h5 class="p-b-5">
                       <a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-                        Importancia do processameto
+                        Graça Machel: “desnutrição crónica é uma emergência nacional”
                       </a>
                     </h5>
 
-                    <span class="cl8">
-										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-											por Tania Arouca
-										</a>
-
-										<span class="f1-s-3 m-rl-3">
-											-
-										</span>
-
-										<span class="f1-s-3">
-											Feb 16
-										</span>
-									</span>
+                    
                   </div>
                 </div>
               </div>
@@ -383,23 +371,11 @@
                   <div class="p-t-16">
                     <h5 class="p-b-5">
                       <a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-                        Gado de Mussorize ja exportado para Malawi.
+                        Inovação na agricultura depende de investimentos arrojados
                       </a>
                     </h5>
 
-                    <span class="cl8">
-										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-											por John Mateque
-										</a>
-
-										<span class="f1-s-3 m-rl-3">
-											-
-										</span>
-
-										<span class="f1-s-3">
-											Feb 15
-										</span>
-									</span>
+                    
                   </div>
                 </div>
               </div>
@@ -418,19 +394,7 @@
                       </a>
                     </h5>
 
-                    <span class="cl8">
-										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-											por John Mateque
-										</a>
-
-										<span class="f1-s-3 m-rl-3">
-											-
-										</span>
-
-										<span class="f1-s-3">
-											Feb 13
-										</span>
-									</span>
+                    
                   </div>
                 </div>
               </div>
@@ -445,23 +409,11 @@
                   <div class="p-t-16">
                     <h5 class="p-b-5">
                       <a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-                        Avicultura em proporcoes mais avancadas.
+                        Pragas arrasam produção de hortícolas em Maputo
                       </a>
                     </h5>
 
-                    <span class="cl8">
-										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-											por John Mateque
-										</a>
-
-										<span class="f1-s-3 m-rl-3">
-											-
-										</span>
-
-										<span class="f1-s-3">
-											Feb 10
-										</span>
-									</span>
+                    
                   </div>
                 </div>
               </div>
@@ -476,23 +428,10 @@
                   <div class="p-t-16">
                     <h5 class="p-b-5">
                       <a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-                        Chokwe avanca na promocao de tomate a pequenos agricultores
+                        Moçambique poderá receber até 50 milhões de dólares por reduzir emissões de gases de efeito estufa
                       </a>
                     </h5>
 
-                    <span class="cl8">
-										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-											por Tania Arouca
-										</a>
-
-										<span class="f1-s-3 m-rl-3">
-											-
-										</span>
-
-										<span class="f1-s-3">
-											Feb 09
-										</span>
-									</span>
                   </div>
                 </div>
               </div>
@@ -526,19 +465,6 @@
                       </a>
                     </h5>
 
-                    <span class="cl15">
-										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-											por Joaquim Chavane
-										</a>
-
-										<span class="f1-s-3 m-rl-3">
-											-
-										</span>
-
-										<span class="f1-s-3">
-											Feb 18
-										</span>
-									</span>
                   </div>
                 </div>
               </div>

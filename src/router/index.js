@@ -43,6 +43,30 @@ const routes = [
       title: 'Acerca'
     },
     component: () => import('../views/About.vue')
+  },
+  {
+    path: '/blog-home-01',
+    name: '/blog-home-01',
+    meta: {
+      title: 'Artigo'
+    },
+    component: () => import('../views/Blog-Home-01.vue')
+  },
+  {
+    path: '/blog-home-02',
+    name: '/blog-home-02',
+    meta: {
+      title: 'Artigo'
+    },
+    component: () => import('../views/Blog-Home-02.vue')
+  },
+  {
+    path: '/blog-home-03',
+    name: '/blog-home-03',
+    meta: {
+      title: 'Artigo'
+    },
+    component: () => import('../views/Blog-Home-03.vue')
   }
 ]
 

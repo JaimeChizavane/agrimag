@@ -16,11 +16,21 @@
                 que é feito nas zonas rurais, na area industrial e tambem como contribuimos para parcerias bilaterais.
               </p>
 
-              <p class="f1-s-1 cl11 p-b-16">
+              <!-- <p class="f1-s-1 cl11 p-b-16">
                 Quer publicitar? Ligue em (+258) 21 716 6879
-              </p>
+              </p> -->
 
-              <div class="p-t-15">
+              
+            </div>
+          </div>
+
+          <div class="col-sm-6 col-lg-4 p-b-20">
+            <div class="size-h-3 flex-s-c">
+              <h5 class="f1-m-7 cl0">
+                Siga nos redes sociais
+              </h5>
+            </div>
+            <div class="p-t-30">
                 <a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
                   <span class="fab fa-facebook-f"></span>
                 </a>
@@ -30,88 +40,16 @@
                 </a>
 
                 <a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
-                  <span class="fab fa-pinterest-p"></span>
-                </a>
-
-                <a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
-                  <span class="fab fa-vimeo-v"></span>
-                </a>
-
-                <a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
                   <span class="fab fa-youtube"></span>
                 </a>
               </div>
-            </div>
+            
           </div>
 
           <div class="col-sm-6 col-lg-4 p-b-20">
             <div class="size-h-3 flex-s-c">
               <h5 class="f1-m-7 cl0">
-                Artigos mais vistos
-              </h5>
-            </div>
-
-            <ul>
-              <li class="flex-wr-sb-s p-b-20">
-                <a href="#" class="size-w-4 wrap-pic-w hov1 trans-03">
-                  <img src="images/popular-post-01.jpg" alt="IMG">
-                </a>
-
-                <div class="size-w-5">
-                  <h6 class="p-b-5">
-                    <a href="#" class="f1-s-5 cl11 hov-cl10 trans-03">
-                      Moamba regista a melhor epoca de colheita nos ultimos 10 anos
-                    </a>
-                  </h6>
-
-                  <span class="f1-s-3 cl6">
-										Feb 17
-									</span>
-                </div>
-              </li>
-
-              <li class="flex-wr-sb-s p-b-20">
-                <a href="#" class="size-w-4 wrap-pic-w hov1 trans-03">
-                  <img src="images/popular-post-02.jpg" alt="IMG">
-                </a>
-
-                <div class="size-w-5">
-                  <h6 class="p-b-5">
-                    <a href="#" class="f1-s-5 cl11 hov-cl10 trans-03">
-                      Inicio de uma jordanada para a revolucao agricola
-                    </a>
-                  </h6>
-
-                  <span class="f1-s-3 cl6">
-										Feb 16
-									</span>
-                </div>
-              </li>
-
-              <li class="flex-wr-sb-s p-b-20">
-                <a href="#" class="size-w-4 wrap-pic-w hov1 trans-03">
-                  <img src="images/popular-post-03.jpg" alt="IMG">
-                </a>
-
-                <div class="size-w-5">
-                  <h6 class="p-b-5">
-                    <a href="#" class="f1-s-5 cl11 hov-cl10 trans-03">
-                      Boane volta a lideranca na producao de banana
-                    </a>
-                  </h6>
-
-                  <span class="f1-s-3 cl6">
-										Feb 15
-									</span>
-                </div>
-              </li>
-            </ul>
-          </div>
-
-          <div class="col-sm-6 col-lg-4 p-b-20">
-            <div class="size-h-3 flex-s-c">
-              <h5 class="f1-m-7 cl0">
-                Categorias
+                Quick
               </h5>
             </div>
 
@@ -124,7 +62,7 @@
 
               <li class="how-bor1 p-rl-5 p-tb-10">
                 <a href="#" class="f1-s-5 cl11 hov-cl10 trans-03 p-tb-8">
-                  Negocios
+                  Directório
                 </a>
               </li>
 
@@ -134,11 +72,6 @@
                 </a>
               </li>
 
-              <li class="how-bor1 p-rl-5 p-tb-10">
-                <a href="#" class="f1-s-5 cl11 hov-cl10 trans-03 p-tb-8">
-                  Business Hub
-                </a>
-              </li>
 
             </ul>
           </div>
